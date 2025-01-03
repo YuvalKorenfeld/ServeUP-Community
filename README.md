@@ -24,7 +24,7 @@
 
 ## Recognition
 
-- **Winner of the 2024 Computer Science Graduation Project Excellence Award at Bar-Ilan University**.
+- ** 🏅 Winner of the 2024 Computer Science Graduation Project Excellence Award at Bar-Ilan University 🏅 **.
 
 
 
