@@ -1,5 +1,5 @@
 # ServeUp Community
-![ServeUp Logo](https://drive.google.com/file/d/1SWhiK0-nRSbCdGqEAkQVWAtPPq5EEUf5/view?usp=share_link)
+![ServeUp Logo| 400](https://drive.google.com/file/d/1SWhiK0-nRSbCdGqEAkQVWAtPPq5EEUf5/view?usp=share_link](https://github.com/YuvalKorenfeld/ServeUP-Community/blob/main/ServeUp-Client/assets/community.png)
 ## Overview
 **Tennis Partner Finder** is a first-of-its-kind, community-driven platform designed for tennis players to easily connect with partners based on key factors like age, skill level, location, and availability. This innovative app enhances the tennis experience by providing an integrated social network, event scheduling, messaging, user profiles, and real-time match result tracking via Apple Watch. Our mission is to make tennis a perfect game for every player.
 
