@@ -4,7 +4,7 @@
 
 
 
-## Features
+## Key Features That Set Us Apart
 
 - **Find Tennis Partners:** Match with players based on your age, skill level, location, and availability.
 - **Event Scheduling:** Organize and schedule matches with your partners seamlessly.
@@ -14,7 +14,7 @@
 
 
 
-## Benefits
+## The Benefits of Joining ServeUP Community
 
 - **Level Up Your Game:** Real-time tracking and performance insights to motivate you to improve.
 - **Find Like-minded Partners:** Easily connect with players who match your skill level and availability.
