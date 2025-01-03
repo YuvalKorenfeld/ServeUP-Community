@@ -31,7 +31,7 @@
 ## Contact
 
 For any inquiries or feedback, feel free to contact us at:  
-**Email:** serveupproject@gmail.com  
+serveupproject@gmail.com  
 
 
 
